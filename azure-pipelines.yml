@@ -15,12 +15,4 @@ steps:
     rootFolderOrFile: '$(build.sourcesDirectory)'
     includeRootFolder: false
 - task: PublishBuildArtifacts@1
-  inputs:
-    ConnectionType: 'AzureRM'
-    azureSubscription: 'Azure for Students (3fce2a83-6de0-4a74-a86b-73a4a26d10a1)'
-    appType: 'webApp'
-    WebAppName: 'foodie-blog'
-    deployToSlotOrASE: true
-    ResourceGroupName: 'foodie-blog-rg'
-    SlotName: 'production'
-    
+ 
