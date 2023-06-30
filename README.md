@@ -6,7 +6,7 @@
 
 ## This Web Page has been deployed for the accomplishment of Future Ready Talent Internship Program launched by Microsoft, Future Skills Prime and Github.
 - Project link : https://delightful-meadow-0a70d6300.3.azurestaticapps.net/
-- Project demo video link : 
+- Project demo video link : https://www.youtube.com/watch?v=FmiEb3ZNJbM
 
 # Azure Technologies used for project
 - Static web apps
@@ -41,3 +41,9 @@
 - CSS
 - jQuery
 - BootStrap Framework
+
+# Team Details
+- Adapa Devi srinivas
+- Madala Venkatesh
+- Vennala Jaya Prakash
+- Regala ManiKanta
