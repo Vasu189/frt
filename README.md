@@ -41,3 +41,10 @@
 - CSS
 - jQuery
 - BootStrap Framework
+
+# Team Details
+- Adapa Devi Srinivas
+- Madala Venkatesh
+- Vennela Jaya Prakash
+- Regala Manikanta
+- 
